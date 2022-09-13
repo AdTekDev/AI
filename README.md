@@ -10,3 +10,9 @@
 ## Syllabus
 - https://drive.google.com/drive/folders/1PabfZeEU2TORWPDKTpsilgsTiyP279xN?usp=sharing 
 
+## Exercises
+
+
+## FB group
+- https://www.facebook.com/groups/ArtificialIntelligenceCourses  
+
