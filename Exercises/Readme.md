@@ -1,4 +1,7 @@
 
-W01. Prolog
+# W01. Prolog
 - https://www.swi-prolog.org/Download.html 
 - http://www.picat-lang.org/bprolog/download.html 
+
+Learning:
+- http://lpn.swi-prolog.org/lpnpage.php?pageid=online 
