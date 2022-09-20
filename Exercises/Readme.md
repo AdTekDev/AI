@@ -8,3 +8,5 @@ Learning:
 - https://drive.google.com/file/d/1GgdmWI3AJTPfyP5op3M9o-R3HxkJj4-H/view?usp=sharing 
 
 
+# W02. Prolog - s02
+
