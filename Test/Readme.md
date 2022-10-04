@@ -1,6 +1,13 @@
 
 ## Class-01. (9:35 - 10:35 . 2022.10.04)
 
+Describe a real family as a list of facts of the following form:
+
+father( f, c) /* f is father of child c */  
+mother( m, c) /* m is mother of child c */  
+man( m) /* m is man */  
+woman( w) /* w is woman */  
+
 ### Define the following predicates: (3 marks) 
 
 parent( P, C) /* P is father or mother of C */  
