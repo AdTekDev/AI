@@ -6,10 +6,10 @@ Describe a real family as a list of facts of the following form:
 father( f, c) /* f is father of child c */  
 mother( m, c) /* m is mother of child c */  
 man( m) /* m is man */  
-woman( w) /* w is woman */  
-drinks( x, y) /* x drinks y */
-studies( x, y) / student x studies course y /
-teaches( x, y) / x teaches course y /
+woman( w) /* w is woman */    
+drinks( x, y) /* x drinks y */   
+studies( x, y) / student x studies course y /   
+teaches( x, y) / x teaches course y /   
 
 ### Define the following predicates: (3 marks) 
 
