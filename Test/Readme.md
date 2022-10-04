@@ -1,7 +1,7 @@
 
 ## Class-8:40.
 
-### Define the following predicates:
+### Define the following predicates: (3 marks) 
 
 parent( P, C) /* P is father or mother of C */  
 
@@ -30,4 +30,7 @@ aunt( A, N) /* A is aunt of N */
 woman( w) /* w is woman */  
 
 
-### Define further family relations e.g. niece, cousin, spouse 
+### Define further family relations e.g. niece, cousin, spouse  (5 marks . 1 mark / relation) 
+
+### Define Facts and Queries !!! 
+
