@@ -1,5 +1,5 @@
 
-## Class-8:40.
+## Class-01. (9:35 - 10:35 . 2022.10.)
 
 ### Define the following predicates: (3 marks) 
 
