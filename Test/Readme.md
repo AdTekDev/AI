@@ -1,5 +1,5 @@
 
-## Class-02. (11:15 - 12:15 . 2022.10.04)
+# Class-02. (11:15 - 12:15 . 2022.10.04)
 
 Describe a real family as a list of facts of the following form:
 
@@ -48,7 +48,7 @@ goodDrink ( X ) / Y and Z drink X /
 
 
 
-## Class-01. (9:35 - 10:35 . 2022.10.04)
+# Class-01. (9:35 - 10:35 . 2022.10.04)
 
 Describe a real family as a list of facts of the following form:
 
