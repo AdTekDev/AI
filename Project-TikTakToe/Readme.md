@@ -4,5 +4,7 @@ Link - Python code:
 
 
 APIs:
-- (2022.10.18) 
+- (2022.10.18) - https://app.swaggerhub.com/apis-docs/CabX.vn/AI-TikTakToe/1.0.0  
+
+
 
