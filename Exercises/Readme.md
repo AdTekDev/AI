@@ -8,5 +8,10 @@ Learning:
 - https://drive.google.com/file/d/1GgdmWI3AJTPfyP5op3M9o-R3HxkJj4-H/view?usp=sharing 
 
 
-# W02. Prolog - s02
+# W02,03,04. Prolog - s02
 
+
+# W05 - TicTacToe
+
+# W06 - A* Algorithm 
+- https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
