@@ -18,6 +18,8 @@ Learning:
 - https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
 
 # W07 - Minimax Search 
-- .  
+- https://colab.research.google.com/drive/1-TJusNkaduwPEhcE1yjDEAeBgiEg3OMY?usp=sharing  
+
+ 
 
 
