@@ -16,3 +16,8 @@ Learning:
 
 # W06 - A* Algorithm 
 - https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
+
+# W07 - Minimax Search 
+- .  
+
+
