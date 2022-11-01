@@ -20,7 +20,7 @@ Learning:
 # W07 - Minimax Search 
 - https://colab.research.google.com/drive/1-TJusNkaduwPEhcE1yjDEAeBgiEg3OMY?usp=sharing  
 
-# W08 Minimax Pruning
+# W08 - Minimax Pruning
 - Sửa lại Alg Minimax, cho phép Pruning các nhánh Search không cần thiết 
 - Hình sử dụng chạy thử - https://w3.cs.jmu.edu/spragunr/CS444/activities/minimax/minimax.png 
 
