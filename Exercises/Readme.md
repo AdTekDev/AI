@@ -26,7 +26,9 @@ Learning:
 - Chuyển Tree trên thành Data trong Minimax code W07, chạy ra kết quả (10%)
 - Biến đổi code, chạy Pruning (5%)
 
-
+# W09 - Alpha Beta Algorithm 
+- Hện thực giải thuật AB
+- Chạy và hiển thị kết quả từng bước xử lý 
 
 
 
