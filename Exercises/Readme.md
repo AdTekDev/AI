@@ -30,6 +30,13 @@ Learning:
 - Hện thực giải thuật AB
 - Chạy và hiển thị kết quả từng bước xử lý 
 
+# W10 - MidTerm 
 
+# W11 - Project 
+- Cập nhật TikTakToe với không gian 1000x1000
+- Khởi tạo
+- Lưu trữ
+- Đánh giá khả năng thắng 5x hoặc 5o 
+- Score Function 
 
 
