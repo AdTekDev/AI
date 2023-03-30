@@ -10,6 +10,13 @@ Learning:
 
 # W02,03. Prolog - s02
 
+- Bài tập 02.02.
+Đã có mối quan hệ Cha, Mẹ
+Viết các Rule:
+1. Xác định Anh Em ruột
+2. Anh em cùng cha khác mẹ
+3. Cậu cháu
+
 # W04. Test 01
 
 # W05 - TicTacToe
