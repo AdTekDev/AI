@@ -20,7 +20,11 @@ Viết các Rule:
 # W03. Search
 - DFS, BFS, UCS  
 - Tools:  
-Anaconda https://www.anaconda.com/products/distribution/start-coding-immediately  
+Anaconda  
+https://www.anaconda.com/  
+https://repo.anaconda.com/archive/Anaconda3-2023.03-Windows-x86_64.exe  
+
+
 Colab: https://colab.research.google.com/  
 
 
