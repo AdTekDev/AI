@@ -17,6 +17,13 @@ Viết các Rule:
 2. Anh em cùng cha khác mẹ
 3. Cậu cháu
 
+# W03. Search
+- DFS, BFS, UCS  
+- Tools:  
+Anaconda https://www.anaconda.com/products/distribution/start-coding-immediately  
+Colab: https://colab.research.google.com/  
+
+
 # W04. Test 01
 
 # W05 - TicTacToe
