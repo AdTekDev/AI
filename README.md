@@ -24,6 +24,7 @@
 ## Tools
 - https://visualgo.net/en 
 - https://algorithm-visualizer.org/ 
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html  
 
 ## REFs  
 - https://aima.cs.berkeley.edu/  
