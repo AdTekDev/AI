@@ -10,8 +10,11 @@
 ## Syllabus
 - https://drive.google.com/drive/folders/1PabfZeEU2TORWPDKTpsilgsTiyP279xN?usp=sharing 
 
-## Exercises
+## Exercises  
+- https://github.com/AdTekDev/AI/tree/main/Exercises 
 
+## Project  
+- https://github.com/AdTekDev/AI/tree/main/Project-TikTakToe  
 
 ## FB group
 - https://www.facebook.com/groups/ArtificialIntelligenceCourses  
