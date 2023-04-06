@@ -12,6 +12,8 @@
 
 ## Exercises  
 - https://github.com/AdTekDev/AI/tree/main/Exercises 
+- https://aimacode.github.io/aima-exercises/  
+- https://github.com/aimacode  
 
 ## Project  
 - https://github.com/AdTekDev/AI/tree/main/Project-TikTakToe  
@@ -22,3 +24,6 @@
 ## Tools
 - https://visualgo.net/en 
 - https://algorithm-visualizer.org/ 
+
+## REFs  
+- https://aima.cs.berkeley.edu/  
