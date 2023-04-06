@@ -16,3 +16,6 @@
 ## FB group
 - https://www.facebook.com/groups/ArtificialIntelligenceCourses  
 
+## Tools
+- https://visualgo.net/en 
+- https://algorithm-visualizer.org/ 
