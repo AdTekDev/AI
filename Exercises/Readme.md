@@ -28,7 +28,10 @@ https://repo.anaconda.com/archive/Anaconda3-2023.03-Windows-x86_64.exe
 Colab: https://colab.research.google.com/  
 
 
-# W04. Test 01
+# W04. Search - BFS, UCS
+- thay đổi code DFS thành BFS 
+- thêm thông tin , chỉnh code thành UCS 
+
 
 # W05 - TicTacToe
 
