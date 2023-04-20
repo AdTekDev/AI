@@ -61,16 +61,18 @@ Bài toán tiktaktoe
 # W10 - MidTerm (Project 01)
 - Đánh giá lần 1
 
-# W11 - Project 
+# W11 - Project (upgrading)
 - Cập nhật TikTakToe với không gian 1000x1000
 - Khởi tạo
 - Lưu trữ
 - Đánh giá khả năng thắng 5x hoặc 5o 
 - Score Function
 
-# W12 - Tree Decision
+# W12 - unCertainty
 
-# W13 - unCertainty
+# W13 - Net
+
+# W14 - ML
 
 # W14,15 - Final Project
 - Đánh giá lần 2
