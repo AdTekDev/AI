@@ -33,17 +33,21 @@ Colab: https://colab.research.google.com/
 - thêm thông tin , chỉnh code thành UCS 
 
 
-# W05 - TicTacToe
+# W05 - A* Algorithm 
+
 Bài tập 01.
 - https://cdn.educba.com/academy/wp-content/uploads/2020/03/Algorithm-1.png.webp
+
+A*
+- https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
 
 Bài toán tiktaktoe 
 
 # W06 - Test 01 (Prolog)
 - 60'
 
-# W06 - A* Algorithm 
-- https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
+# W06 - TicTacToe
+Bài toán tiktaktoe 
 
 # W07 - Minimax Search 
 - https://colab.research.google.com/drive/1-TJusNkaduwPEhcE1yjDEAeBgiEg3OMY?usp=sharing  
