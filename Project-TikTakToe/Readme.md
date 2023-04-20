@@ -11,9 +11,10 @@
 1: ô này do Player 1 đánh  
 2: ô này do Player 2 đánh  
 - Thắng khi: liên tiếp max 5 ô được đi  
-hàng
-cột
-chéo (thuận, ngược)
+hàng  
+cột  
+chéo (thuận, ngược)  
+
 
 ## APIs:
 - http://adtekdev.top/api/ai/tiktaktoe/ 
