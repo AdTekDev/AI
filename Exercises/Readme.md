@@ -39,6 +39,9 @@ Bài tập 01.
 
 Bài toán tiktaktoe 
 
+# W06 - Test 01 (Prolog)
+- 60'
+
 # W06 - A* Algorithm 
 - https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
 
@@ -55,7 +58,8 @@ Bài toán tiktaktoe
 - Hện thực giải thuật AB
 - Chạy và hiển thị kết quả từng bước xử lý 
 
-# W10 - MidTerm 
+# W10 - MidTerm (Project 01)
+- Đánh giá lần 1
 
 # W11 - Project 
 - Cập nhật TikTakToe với không gian 1000x1000
@@ -63,5 +67,9 @@ Bài toán tiktaktoe
 - Lưu trữ
 - Đánh giá khả năng thắng 5x hoặc 5o 
 - Score Function 
+
+# W14 - Final Project
+- Đánh giá lần 2
+
 
 
