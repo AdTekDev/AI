@@ -66,9 +66,13 @@ Bài toán tiktaktoe
 - Khởi tạo
 - Lưu trữ
 - Đánh giá khả năng thắng 5x hoặc 5o 
-- Score Function 
+- Score Function
 
-# W14 - Final Project
+# W12 - Tree Decision
+
+# W13 - unCertainty
+
+# W14,15 - Final Project
 - Đánh giá lần 2
 
 
