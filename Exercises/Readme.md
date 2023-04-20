@@ -34,6 +34,10 @@ Colab: https://colab.research.google.com/
 
 
 # W05 - TicTacToe
+Bài tập 01.
+- https://cdn.educba.com/academy/wp-content/uploads/2020/03/Algorithm-1.png.webp
+
+Bài toán tiktaktoe 
 
 # W06 - A* Algorithm 
 - https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
