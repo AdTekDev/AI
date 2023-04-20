@@ -5,7 +5,7 @@
 ## Mô tả:
 - State lưu trong 1 Bảng / Array / Matrix 2 chiều  
 - Đi "luân phiên" Player 1 , Player 2  
-- Thời gian giới hạn (người 30' ; máy 15')  
+- Thời gian giới hạn ( người 30" ; máy 15" )  
 - Trạng thái ghi nhận người chơi đánh vào từng ô  
 0: chưa có ai  
 1: ô này do Player 1 đánh  
