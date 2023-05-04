@@ -28,3 +28,4 @@
 
 ## REFs  
 - https://aima.cs.berkeley.edu/  
+- https://mat.uab.cat/~alseda/MasterOpt/ 
