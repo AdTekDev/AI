@@ -38,15 +38,21 @@ Colab: https://colab.research.google.com/
 Bài tập 01.
 - https://cdn.educba.com/academy/wp-content/uploads/2020/03/Algorithm-1.png.webp
 
-A*
-- https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
+
 
 Bài toán tiktaktoe 
 
 # W06 - Test 01 (Prolog)
 - 60'
 
-# W06 - TicTacToe
+# W07 - A*
+A*
+- https://colab.research.google.com/drive/1CeAaIhVLNcEvn6Lj4edS5ATFV-HKy3AP?usp=sharing 
+
+![image](https://user-images.githubusercontent.com/18588011/236124912-e90484af-38f5-4060-bfd0-438e28734d96.png)
+
+
+# W07 - TicTacToe
 Bài toán tiktaktoe 
 
 # W07 - Minimax Search 
