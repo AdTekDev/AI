@@ -20,3 +20,6 @@ chéo (thuận, ngược)
 - http://adtekdev.top/api/ai/tiktaktoe/ 
 
 
+## REFs
+-  https://github.com/AvaibleUser/min-max-tree-exercise  
+
