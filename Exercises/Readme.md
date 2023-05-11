@@ -57,6 +57,9 @@ Bài toán tiktaktoe
 
 # W07 - Minimax Search 
 - https://colab.research.google.com/drive/1-TJusNkaduwPEhcE1yjDEAeBgiEg3OMY?usp=sharing  
+SIM:
+- https://pascscha.ch/info2/abTreePractice/  
+
 
 # W08 - Bài tập 
 Áp dụng Minimax cho các ví dụ sau:
