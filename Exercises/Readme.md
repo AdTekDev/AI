@@ -58,6 +58,11 @@ Bài toán tiktaktoe
 # W07 - Minimax Search 
 - https://colab.research.google.com/drive/1-TJusNkaduwPEhcE1yjDEAeBgiEg3OMY?usp=sharing  
 
+# W08 - Bài tập 
+Áp dụng Minimax cho các ví dụ sau:
+![image](https://github.com/AdTekDev/AI/assets/18588011/9af74c8e-8fec-4a5a-bae1-1bc6208147c6)
+  
+  
 # W08 - Minimax Pruning
 - Sửa lại Alg Minimax, cho phép Pruning các nhánh Search không cần thiết 
 - Hình sử dụng chạy thử - https://w3.cs.jmu.edu/spragunr/CS444/activities/minimax/minimax.png 
