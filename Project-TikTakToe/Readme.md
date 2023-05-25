@@ -16,6 +16,20 @@ cột
 chéo (thuận, ngược)  
 
 
+## Project Stage 01 - W10 - Đánh giá lần 1 (Mid)
+- 3.5p - Score Function / Heuristic function  
+- 1.5p - Selection 
+- 1p - Checking for win
+- 2p - Running Game 
+- 2p - Answering 
+
+## Project Stage 02 - W14/15 - Đánh giá lần 2 (Final)
+- 3p - updated Heuristic
+- 2p - online playing (call APIs)
+- 1p - ontime 
+- 2p - running Game 
+- 2p - Q/A
+
 ## APIs:
 - http://adtekdev.top/api/ai/tiktaktoe/ 
 
