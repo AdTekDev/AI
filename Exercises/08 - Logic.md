@@ -32,6 +32,15 @@ Represent the following sentences in first-order logic, using a consistent vocab
 11. Politicians can fool some of the people all of the time, and they can fool all of the people some of the time, but they can’t fool all of the people all of the time.  
 12. All Greeks speak the same language. (Use Speaks(x,l)  to mean that person x  speaks language l .)  
 
+### 03  
+
+What is the meaning of the followinf FOL formulas?
+1. bought(F rank; dvd)  
+2. 9x:bought(F rank; x)  
+3. 8x:(bought(F rank; x) ! bought(Susan; x))  
+4. 8x:bought(F rank; x) ! 8x:bought(Susan; x)  
+5. 8x9y:bought(x; y)  
+6. 9x8y:bought(x; y)  
 
 ## Links
 - https://aimacode.github.io/aima-exercises/fol-exercises/  
