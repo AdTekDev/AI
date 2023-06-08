@@ -40,7 +40,10 @@ What is the meaning of the followinf FOL formulas?
 
 
 ### 04  
-
+Reduce to Conjunctive Normal Form (CNF) the formula  
+1. ![image](https://github.com/AdTekDev/AI/assets/18588011/ac396af1-8273-485a-a31a-487de138c450)
+2. ![image](https://github.com/AdTekDev/AI/assets/18588011/7e398efa-8965-4834-a56b-f9f9ddd63848)
+3. 
 
 
 
