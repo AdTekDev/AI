@@ -35,12 +35,14 @@ Represent the following sentences in first-order logic, using a consistent vocab
 ### 03  
 
 What is the meaning of the followinf FOL formulas?
-1. bought(F rank; dvd)  
-2. 9x:bought(F rank; x)  
-3. 8x:(bought(F rank; x) ! bought(Susan; x))  
-4. 8x:bought(F rank; x) ! 8x:bought(Susan; x)  
-5. 8x9y:bought(x; y)  
-6. 9x8y:bought(x; y)  
+
+![image](https://github.com/AdTekDev/AI/assets/18588011/d064ead8-ad76-4d73-a830-b6f9c8a11f8e)
+
+
+### 04  
+
+
+
 
 ## Links
 - https://aimacode.github.io/aima-exercises/fol-exercises/  
