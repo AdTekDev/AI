@@ -26,10 +26,10 @@ Three persons A, B and C have applied for a job in a private company. The chance
 In ATD' class, if a student does homework most days, the chance of passing the course is 90%. On the other hand, if a student does not do homework most days, the chance of passing the course is only 20%.  
 H = event that the student did homework  
 C = event that the student passed the course  
-ATD claims that 80% of his students do homework on a regular basis. If a student is chosen at random from ATD' class, find the following probabilities.
-P(C)  
-P(H|C)  
-P(C|H)  
+ATD claims that 80% of his students do homework on a regular basis. If a student is chosen at random from ATD' class, find the following probabilities.  
+- P(C)  
+- P(H|C)  
+- P(C|H)  
 
 
 
