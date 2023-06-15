@@ -1,11 +1,17 @@
 
 ## Tải và chạy công cụ kết nối APIs
-- TikTokToe Client
+(sẽ update ngày 21/6) 
+
+### TikTokToe Client
+- Windows:  
+- Linux:  
+- MacOS:  
 
 ## Mô tả các tình huống sử dụng
 
 
-## Code gọi và parse data từ python 
+## Code gọi và parse dữ liệu từ python (chạy trên colab, notebook) 
+
 
 
 
