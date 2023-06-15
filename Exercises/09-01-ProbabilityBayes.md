@@ -31,6 +31,44 @@ ATD claims that 80% of his students do homework on a regular basis. If a student
 - P(H|C)  
 - P(C|H)  
 
+### B.06.
+A computer company buys its chips from three different manufacturers. Manufacturer I provides 60% of the chips and is known to produce 5% defective; Manufacturer II supplies 30% of the chips and makes 4% defective; while the rest are supplied by Manufacturer III with 3% defective chips. If a chip is chosen at random, find the following probabilities:  
+- P(the chip is defective)
+- P(chip is from Manufacturer II | defective)
+- P(defective |chip is from manufacturer III)  
 
+### B.07. 
+At a retail store, 20% of customers use the store’s online app to assist them when shopping in the store ; 80% of store shoppers don’t use the app.  
+
+Of those customers that use the online app while in the store, 50% are very satisfied with their purchases, 40% are moderately satisfied, and 10% are dissatisfied.  
+
+Of those customers that do not use the online app while in the store, 30% are very satisfied with their purchases, 50% are moderately satisfied and 20% are dissatisfied.
+
+Indicate the events by the following:  
+
+A = shopper uses the app in the store  
+N = shopper does not use the app in the store  
+V = very satisfied with purchase  
+M = moderately satisfied  
+D = dissatisfied  
+
+- Find P(A and D), the probability that a store customer uses the app and is dissatisfied
+- Find P(A|D), the probability that a store customer uses the app if the customer is dissatisfied.
+
+### B.08. 
+In a casino in Blackpool there are two slot machines: one that pays out 10 % of the time, and one that pays out 20 % of the time. Obviously, you would like to play on the machine that pays out 20 % of the time but you do not know which of the two machines is the more generous. You thus adopt the following strategy: you assume initially that the two machines are equally likely to be the generous machine. You then select one of the two machines at random and put a coin into it. Given that you loose that first bet estimate the probability that the machine you selected is the more generous of the two machines.
+
+### B.09.
+A radar system is designed such that the probability of detecting the presence of an aircraft in its range is 98%. However if no aircraft is present in its range it still report (falsely) that an aircraft is present with a probability of 5%. At any time, the probability that an aircraft is present within the range of the radar is 7%.  
+- What is the probability that no aircraft is present in the range of the radar given that an aircraft is detected?
+- What is the probability that an aircraft is present in the range of the radar given that an aircraft is detected?
+- What is the probability that an aircraft is present in the range of the radar given that no aircraft is detected?  
+
+### B.10.
+An aircraft emergency locator transmitter (ELT) is a device designed to transmit a signal in the case of a crash. The KonTek Manufacturing Company makes 80% of the ELTs, the Edopa Company makes 15% of them, and the InoBox Company makes the other 5%. The ELTs made by KonTek have a 4% rate of defects, the Edopa ELTs have a 6% rate of defects, and the InoBox ELTs have a 9% rate of defects (which helps to explain why InoBox has the lowest market share).  
+- If an ELT is randomly selected from the general population of all ELTs, find the probability that it was made by the KonTek Manufacturing Company.  
+- If a randomly selected ELT is then tested and is found to be defective, find the probability that it was made by the KonTek Manufacturing Company
+
+  
 
 
