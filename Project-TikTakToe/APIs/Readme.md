@@ -3,8 +3,7 @@
 (sẽ update ngày 21/6 --> 26/6) 
 
 ### TikTokToe Client
-- Windows:  https://drive.google.com/file/d/13-NGwPrmh1oF-ygRIeBG330beNCxz21D/view?usp=drive_link
-  https://drive.google.com/file/d/1KZYXgM2FEJO9TSGcEtW5kJtH5S3Nfct2/view?usp=drive_link 
+- Windows:  https://drive.google.com/file/d/15bhgf8_Yw0S2wbLnEkpNOEvmugFwLR1F/view?usp=drive_link  
 - Linux:  
 - MacOS:  
 
