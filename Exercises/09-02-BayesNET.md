@@ -18,7 +18,7 @@ Every tenth tram goes to the depot evenly throughout the operation. The evening 
 ### BN.03
 
 A patient has a disease N. Physicians measure the value of a parameter P to see the disease development.   
-The parameter can take one of the following values flow, medium, highg.   
+The parameter can take one of the following values {low, medium, high}.   
 The value of P is a result of patient’s unobservable condition/state S.   
 S can be {good, poor}. The state changes between two consecutive days in one fifth of cases.   
 If the patient is in good condition, the value for P is rather low (having 10 sample measurements, 5 of them are low, 3 medium and 2 high), while if the patient is in poor condition, the value is rather high (having 10 measurements, 3 are low, 3 medium and 4 high).   
