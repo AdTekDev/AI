@@ -1,6 +1,6 @@
 
 ## Tải và chạy công cụ kết nối APIs
-(sẽ update ngày 21/6) 
+(sẽ update ngày 21/6 --> 26/6) 
 
 ### TikTokToe Client
 - Windows:  
