@@ -15,3 +15,14 @@ Every tenth tram goes to the depot evenly throughout the operation. The evening 
 - d) There is a tram 22 standing in the stop. How many cars does it have?  
 
 
+### BN.03
+
+A patient has a disease N. Physicians measure the value of a parameter P to see the disease development.   
+The parameter can take one of the following values flow, medium, highg.   
+The value of P is a result of patient’s unobservable condition/state S.   
+S can be {good, poor}. The state changes between two consecutive days in one fifth of cases.   
+If the patient is in good condition, the value for P is rather low (having 10 sample measurements, 5 of them are low, 3 medium and 2 high), while if the patient is in poor condition, the value is rather high (having 10 measurements, 3 are low, 3 medium and 4 high).   
+On arrival to the hospital on day 0, the patient’s condition was unknown, i.e., P(S0 = good) = 0:5.   
+- a) Draw the transition and sensor model of the dynamic Bayesian network modeling the domain under consideration,  
+- b) calculate probability that the patient is in good condition on day 2 given low P values on days 1 and 2,  
+- c) can you determine the most likely patient state sequence in days 0, 1 and 2 without any additional computations?, justify.
