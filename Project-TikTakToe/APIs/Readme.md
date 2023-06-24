@@ -38,7 +38,7 @@ xCaro = subprocess.Popen(["CLIENT-TicTacToe", "start",  "ABC",  "BaDoSa"],
                         universal_newlines=True,  
                         bufsize=0)  
 
-# Fetch output  
+/// fetch output  
 for line in xCaro.stdout:  
     print(line.strip())  
 
