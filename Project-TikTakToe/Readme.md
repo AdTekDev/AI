@@ -30,8 +30,8 @@ chéo (thuận, ngược)
 - 2p - running Game 
 - 2p - Q/A
 
-## APIs:
-- http://adtekdev.top/api/ai/tiktaktoe/ 
+## WEB:
+- http://adtekdev.top/
 
 
 ## REFs
