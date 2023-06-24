@@ -22,24 +22,23 @@ CLIENT-TicTacToe.exe  play ABC BaDoSa 2 3
 
 ### Code gọi từ Python trên Colab hoặc Notebook
 * (chú ý vị trí thư mục của tập tin thực thi CLIENT-TicTacYoe) 
-- Cách 1  
-import os   
-stream = os.popen('CLIENT-TicTacToe  start ABC BaDoSa')   
-output = stream.read()  
-output  
+- Cách 1    
+import os    
+stream = os.popen('CLIENT-TicTacToe  start ABC BaDoSa')    
+output = stream.read()   
+output   
 
-- Cách 2
+- Cách 2   
 import subprocess  
 
-xCaro = subprocess.Popen(["CLIENT-TicTacToe", "start",  "ABC",  "BaDoSa"],  
+xCaro = subprocess.Popen(["CLIENT-TicTacToe", "start",  "ABC",  "BaDoSa"],   
                         stdin =subprocess.PIPE,  
                         stdout=subprocess.PIPE,  
                         stderr=subprocess.PIPE,  
                         universal_newlines=True,  
-                        bufsize=0)  
-
+                        bufsize=0)    
 /// fetch output  
-for line in xCaro.stdout:  
-    print(line.strip())  
+for line in xCaro.stdout:   
+    print(line.strip())   
 
 
