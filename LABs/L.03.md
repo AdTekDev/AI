@@ -3,6 +3,14 @@
 
 ## Miscellaneous Problems
 
+### 03.00 Towers of Hanoi Problem
+is a famous puzzle to move N disks from the source peg/tower to the target peg/tower using the intermediate peg as an auxiliary holding peg. 
+  
+There are two conditions that are to be followed while solving this problem:  
+
+- A larger disk cannot be placed on a smaller disk.
+- Only one disk can be moved at a time.
+
 ### 03.01 Eight queens problem
 This is a classical problem in computer science. 
 The objective is to place eight queens on a chessboard so that no two queens are attacking each other; i.e., no two queens are in the same row, the same column, or on the same diagonal.
