@@ -27,7 +27,6 @@
 ## Others
 
 ### Elixir  
-![image](https://github.com/user-attachments/assets/814d9d1a-9eb8-4a90-9118-153460bf95f8)
 
 - https://elixir-lang.org/ 
 
@@ -37,6 +36,7 @@
 - https://julialang.org/
 
 ### Scala 
+![image](https://github.com/user-attachments/assets/814d9d1a-9eb8-4a90-9118-153460bf95f8)
 
 - https://www.scala-lang.org/
 
