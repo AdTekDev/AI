@@ -27,6 +27,7 @@
 ## Others
 
 ### Elixir  
+![image](https://github.com/user-attachments/assets/12a90c93-76ec-4090-9a1c-583f12d698cb)
 
 - https://elixir-lang.org/ 
 
