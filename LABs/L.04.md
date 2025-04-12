@@ -8,7 +8,7 @@
 
 ## Hashkell - purely functional programming language 
 
-![image](https://github.com/user-attachments/assets/7ea0bf1d-e019-47e7-a2b7-3055ea8d3d9f)
+![image](https://github.com/user-attachments/assets/62368545-7bc2-4315-868e-b8242c9b8a73)
 
 - https://www.haskell.org/
 
