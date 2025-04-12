@@ -37,12 +37,12 @@
 - https://julialang.org/
 
 ### Scala 
-![image](https://github.com/user-attachments/assets/d51bd1c5-a4cd-4f94-ac44-612eed787481)
 
 - https://www.scala-lang.org/
 
 ### Lisp 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d51bd1c5-a4cd-4f94-ac44-612eed787481)
+
 
 - https://lisp-lang.org/ 
 - https://gigamonkeys.com/book/ 
