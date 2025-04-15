@@ -20,9 +20,14 @@
 5. Design five different prompts for a specific scenario, use them in the tool, and critically evaluate the outcomes in terms of relevance, accuracy, and usability.
   
 **Tools**:  
--   
-
-
+- **TO**.001 - Midjourney  https://www.midjourney.com/
+- **TO**.002 - synthesia   https://www.synthesia.io/
+- **TO**.003 - runway   https://app.runwayml.com/
+- **TO**.004 - filmora   https://filmora.wondershare.com/
+- **TO**.005 - opus   https://www.opus.pro/
+- **TO**.006 - cursor   https://www.cursor.com/
+- **TO**.007 - murf   https://murf.ai/
+- **TO**.008 - udio   https://www.udio.com/
 
 
 
@@ -38,14 +43,14 @@
   
 **Domains**:
 
-- DOM.001 - Gen AI For Developers  https://www.tutorialspoint.com/gen-ai/generative-ai-for-developers.htm  
-- DOM.002 - Generative AI in Manufacturing https://www.tutorialspoint.com/gen-ai/generative-ai-in-manufacturing.htm
-- DOM.003 - Generative AI for Educators  https://www.tutorialspoint.com/gen-ai/generative-ai-for-educators.htm
-- DOM.004 - Generative AI for Students   https://www.tutorialspoint.com/gen-ai/generative-ai-for-students.htm
-- DOM.005 - Generative AI for Industry   https://www.tutorialspoint.com/gen-ai/generative-ai-for-industry.htm
-- DOM.006 - Generative AI for Marketing   https://www.tutorialspoint.com/gen-ai/generative-ai-for-marketing.htm
-- DOM.007 - Generative AI for Healthcare   https://www.tutorialspoint.com/gen-ai/generative-ai-for-healthcare.htm
-- DOM.008 - Generative AI for Cooking   https://www.tutorialspoint.com/gen-ai/generative-ai-for-cooking.htm
+- **DOM**.001 - Gen AI For Developers  https://www.tutorialspoint.com/gen-ai/generative-ai-for-developers.htm  
+- **DOM**.002 - Generative AI in Manufacturing https://www.tutorialspoint.com/gen-ai/generative-ai-in-manufacturing.htm
+- **DOM**.003 - Generative AI for Educators  https://www.tutorialspoint.com/gen-ai/generative-ai-for-educators.htm
+- **DOM**.004 - Generative AI for Students   https://www.tutorialspoint.com/gen-ai/generative-ai-for-students.htm
+- **DOM**.005 - Generative AI for Industry   https://www.tutorialspoint.com/gen-ai/generative-ai-for-industry.htm
+- **DOM**.006 - Generative AI for Marketing   https://www.tutorialspoint.com/gen-ai/generative-ai-for-marketing.htm
+- **DOM**.007 - Generative AI for Healthcare   https://www.tutorialspoint.com/gen-ai/generative-ai-for-healthcare.htm
+- **DOM**.008 - Generative AI for Cooking   https://www.tutorialspoint.com/gen-ai/generative-ai-for-cooking.htm
 
 ### Category 3: Use Case Scenarios
 **Objective**: Analyze specific real-world situations and propose AI-driven solutions.  
@@ -54,12 +59,19 @@
 **Requirements**:
 1. Clearly define the problem presented in the selected use-case.  
 2. Describe the context and characteristics of the scenario.  
-3. Identify appropriate AI models, algorithms, or solution workflows that can be applied to address the problem.  
+3. Identify appropriate AI models, architecture, algorithms, or solution workflows that can be applied to address the problem.  
 4. Discuss the results achieved by applying the chosen solution, supported by data or evidence where applicable.  
 5. Provide an in-depth evaluation of the solution’s performance and discuss future improvements or emerging trends related to the scenario.  
 
 **Use Cases / Case Studies**:
-- 
+- **CA**.001 - Multiple Virtual Assistants in Walmart   https://medium.com/walmartglobaltech/a-unified-multi-task-model-for-supporting-multiple-virtual-assistants-in-walmart-2b077c2c96e
+- **CA**.002 - AI Professor   https://www.linkedin.com/pulse/ai-professor-harvard-chatltv-jeffrey-bussgang-oiaie/
+- **CA**.003 - Leveraging Real-Time User Actions to Personalize Etsy Ads   https://www.etsy.com/uk/codeascraft/leveraging-real-time-user-actions-to-personalize-etsy-ads   https://arxiv.org/pdf/2302.01255  
+- **CA**.004 - Scaling marketing for merchants with targeted and intelligent promos   https://engineering.grab.com/scaling-marketing-for-merchants
+- **CA**.005 - Evolution of Ads Conversion Optimization Models at Pinterest   https://medium.com/pinterest-engineering/evolution-of-ads-conversion-optimization-models-at-pinterest-84b244043d51
+- **CA**.006 - How We Automated Content Marketing to Acquire Users at Scale   https://engineering.atspotify.com/2023/11/how-we-automated-content-marketing-to-acquire-users-at-scale/
+- **CA**.007 - Leverage graph technology for real-time Fraud Detection and Prevention   https://medium.com/booking-com-development/leverage-graph-technology-for-real-time-fraud-detection-and-prevention-438336076ea5
+- **CA**.008 - Machine Learning for Fraud Detection in Streaming Services   https://netflixtechblog.com/machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6
 
 
       
