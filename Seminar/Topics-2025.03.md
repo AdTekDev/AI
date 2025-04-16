@@ -29,7 +29,14 @@
 - **TO**.007 - murf   https://murf.ai/
 - **TO**.008 - udio   https://www.udio.com/
 - **TO**.009 - kling   https://www.klingai.com/global/   
-- **TO**.010 - GG AI Studio - Gen video    https://aistudio.google.com/generate-video   
+- **TO**.010 - GG AI Studio - Gen video    https://aistudio.google.com/generate-video
+- **TO**.011 - pictory    https://app.pictory.ai/v2/home
+- **TO**.012 - hailuoai    https://hailuoai.video/
+- **TO**.013 - lumen5    https://lumen5.com/
+- **TO**.014 - seaart     https://www.seaart.ai/
+- **TO**.015 - virbo     https://virbo.wondershare.com/app/
+
+
 
 
 
