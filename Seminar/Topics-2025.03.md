@@ -28,6 +28,8 @@
 - **TO**.006 - cursor   https://www.cursor.com/
 - **TO**.007 - murf   https://murf.ai/
 - **TO**.008 - udio   https://www.udio.com/
+- **TO**.009 - kling   https://www.klingai.com/global/   
+- **TO**.010 - GG AI Studio - Gen video    https://aistudio.google.com/generate-video   
 
 
 
