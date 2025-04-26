@@ -30,4 +30,10 @@
 
 ![image](https://github.com/user-attachments/assets/957a2e4c-b599-4735-8281-80f4661af8fd)
 
-
+## Tools
+- Colab - https://colab.research.google.com/
+- Python - REPL - https://replit.com/languages/python3
+- VScode + Python + Jupyter
+  - https://code.visualstudio.com/download
+  - Jupyter Extension - https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+  - Python - https://www.python.org/downloads/ 
