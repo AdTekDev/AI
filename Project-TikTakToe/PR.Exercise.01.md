@@ -27,6 +27,7 @@ Each group of students is required to complete the following tasks:
 O - -
 - - -
 ```
+
    - Using the move selection rules and evaluation function defined above, explain step-by-step how the AI-controlled X determines its next move. Include:  
      - The evaluation scores for all possible moves.  
      - The rationale for selecting the optimal move based on the rules and function.
