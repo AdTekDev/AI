@@ -22,7 +22,11 @@ Each group of students is required to complete the following tasks:
 
 3. **Scenario Description:**  
    - Describe a specific Tic-Tac-Toe game scenario where player X (controlled by the AI) must make a move immediately after player O places their mark at position A.  
-   - Clearly define the current board state, either using a 3x3 grid with coordinates (e.g., (1,1) for the center) or a diagram to illustrate the positions of X and O marks.  
+```
+- - -
+O - -
+- - -
+```
    - Using the move selection rules and evaluation function defined above, explain step-by-step how the AI-controlled X determines its next move. Include:  
      - The evaluation scores for all possible moves.  
      - The rationale for selecting the optimal move based on the rules and function.
