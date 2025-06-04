@@ -1,5 +1,5 @@
 
-# W11 - Zero-Sum Games - Tik Tak Toe 
+# L.11 - Zero-Sum Games - Tik Tak Toe 
 
 **Lab Session Tasks:**
 
