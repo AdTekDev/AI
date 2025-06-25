@@ -2,7 +2,7 @@
 ## Stage 02
 (update + api) 
 
-## 🔍 Additional Requirements for Tic-Tac-Toe AI Logic
+## 🔍 Requirements for Tic-Tac-Toe AI Logic
 
 1. **Algorithm Requirement**:
 
