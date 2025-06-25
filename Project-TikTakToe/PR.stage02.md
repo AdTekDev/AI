@@ -1,8 +1,29 @@
 
-## Stage 02
+# Stage 02
 (update + api) 
 
-## 🔍 Requirements for Tic-Tac-Toe AI Logic
+## Heuristic
+
+1. **Heuristic Function Design & Updates**:
+
+   * Students must implement a **heuristic evaluation function** to estimate the value of non-terminal game states when the search depth limit is reached.
+   * The heuristic function must consider factors such as:
+
+     * Number of potential winning lines open to the AI.
+     * Number of potential winning lines open to the opponent.
+     * Immediate threats (e.g., 2-in-a-row with an empty third space).
+
+2. **Heuristic Update and Improvement**:
+
+   * Students are expected to **iteratively improve or tune their heuristic function** based on testing and gameplay outcomes.
+   * Evidence of this process must be demonstrated through one or more of the following:
+
+     * A changelog or version history of heuristic adjustments.
+     * Written explanation or diagrams justifying how and why the heuristic was modified.
+     * Experiments comparing different heuristic versions (e.g., win/loss rate vs. random or scripted players).
+
+
+## 🔍 Algorithm
 
 1. **Algorithm Requirement**:
 
@@ -18,7 +39,7 @@
      * Employing **memoization or transposition tables** to avoid redundant computation for previously seen game states.
      * Representing the board in a **compact format**, such as bitboards or flat arrays, to reduce space complexity.
 
-3. **Documentation Requirement**:
+## **Documentation Requirement**:
 
    * The source code must include **clear comments or a README section** explaining:
 
